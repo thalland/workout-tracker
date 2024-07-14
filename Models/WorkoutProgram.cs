@@ -7,3 +7,4 @@ namespace WorkoutTracker.Models
         public string Description { get; set; }
     }
 }
+
