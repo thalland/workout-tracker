@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "saveBeforeRun",
+            "command": "workbench.action.files.saveAll",
+            "type": "shell",
+            "problemMatcher": []
+        },
+        {
+            "label": "dotnetRun",
+            "dependsOn": "saveBeforeRun",
+            "type": "shell",
+            "command": "dotnet run",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "focus": true,
+                "panel": "dedicated"
+            },
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

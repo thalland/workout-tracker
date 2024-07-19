@@ -55,4 +55,4 @@ C:\Users\TShal\Desktop\WorkoutTracker\obj\Debug\net8.0\workout-tracker.pdb
 C:\Users\TShal\Desktop\WorkoutTracker\obj\Debug\net8.0\workout-tracker.genruntimeconfig.cache
 C:\Users\TShal\Desktop\WorkoutTracker\obj\Debug\net8.0\ref\workout-tracker.dll
 C:\Users\TShal\Desktop\WorkoutTracker\obj\Debug\net8.0\workout-tracker.sourcelink.json
-C:\Users\TShal\Desktop\WorkoutTracker\bin\Debug\net8.0\workout-tracker-c97b4-firebase-adminsdk-kcvbq-f34d43aa1d.json
+C:\Users\TShal\Desktop\WorkoutTracker\bin\Debug\net8.0\workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json
