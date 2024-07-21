@@ -13,7 +13,7 @@ builder.Services.AddSwaggerGen();
 
 FirebaseApp.Create(new AppOptions()
 {
-Credential = GoogleCredential.FromFile("./workout-tracker-c97b4-firebase-adminsdk-kcvbq-f34d43aa1d.json"),
+Credential = GoogleCredential.FromFile("./workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json"),
 });
 
 var app = builder.Build();
