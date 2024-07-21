@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WorkoutController.cs",
               "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Controllers\\WorkoutController.cs",
               "RelativeDocumentMoniker": "Controllers\\WorkoutController.cs",
@@ -106,12 +106,11 @@
               "RelativeToolTip": "Controllers\\WorkoutController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:13:40.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T13:13:40.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WorkoutProgram.cs",
               "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Models\\WorkoutProgram.cs",
               "RelativeDocumentMoniker": "Models\\WorkoutProgram.cs",
@@ -119,11 +118,12 @@
               "RelativeToolTip": "Models\\WorkoutProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:13:37.638Z"
+              "WhenOpened": "2024-07-14T13:13:37.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace WorkoutTracker.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("workouttracker/v1/[controller]")]
     public class WorkoutController : ControllerBase
     {
         private readonly WorkoutService _workoutService;
