@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\services\\workoutservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:services\\workoutservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\workout-tracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:workout-tracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|c:\\users\\tshal\\desktop\\workouttracker\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C33780A-971A-4483-9633-1728F33D0C56}|workout-tracker.csproj|solutionrelative:controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json",
               "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json",
               "RelativeDocumentMoniker": "workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json",
@@ -58,35 +50,11 @@
               "RelativeToolTip": "workout-tracker-c97b4-firebase-adminsdk-kcvbq-3a81ecd94d.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T14:57:58.125Z"
+              "WhenOpened": "2024-07-21T19:10:22.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-21T14:57:22.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "workout-tracker.http",
-              "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\workout-tracker.http",
-              "RelativeDocumentMoniker": "workout-tracker.http",
-              "ToolTip": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\workout-tracker.http",
-              "RelativeToolTip": "workout-tracker.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-21T14:54:31.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "WorkoutServices.cs",
               "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Services\\WorkoutServices.cs",
               "RelativeDocumentMoniker": "Services\\WorkoutServices.cs",
@@ -98,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WorkoutController.cs",
               "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Controllers\\WorkoutController.cs",
               "RelativeDocumentMoniker": "Controllers\\WorkoutController.cs",
@@ -110,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "WorkoutProgram.cs",
               "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Models\\WorkoutProgram.cs",
               "RelativeDocumentMoniker": "Models\\WorkoutProgram.cs",
@@ -118,18 +86,17 @@
               "RelativeToolTip": "Models\\WorkoutProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:13:37.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T13:13:37.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\TShal\\Desktop\\WorkoutTracker\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T13:13:29.913Z",
               "EditorCaption": ""
@@ -145,10 +112,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T13:05:17.732Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
