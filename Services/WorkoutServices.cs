@@ -27,6 +27,17 @@ namespace WorkoutTracker.Services
             await collection.AddAsync(program);
         }
 
+        public async Task GetWorkoutPrograms()
+        {
+            var collection = _firestoreDb.Collection("workoutPrograms");
+            var snapshot = await collection.GetSnapshotAsync();
+            foreach (var document in snapshot.Documents)
+            {
+                Console.WriteLine($"Document ID: {document.Id}");
+                Console.WriteLine($"Document Data: {document.ToDictionary()}");
+            }
+        }
+
         // Implement other CRUD methods as needed
     }
 }

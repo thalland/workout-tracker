@@ -25,5 +25,11 @@ namespace WorkoutTracker.Controllers
 
         // Implement other CRUD endpoints as needed
         // hello world2
+        [HttpGet]
+        public async Task<IActionResult> GetWorkoutPrograms()
+        {
+            await _workoutService.GetWorkoutPrograms();
+            return Ok("GetWorkoutPrograms");
+        }
     }
 }
